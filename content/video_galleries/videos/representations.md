@@ -1,7 +1,11 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: 53bcb5ef-562b-8c20-bc21-9567e0269453
 title: Representations
 uid: 4ec91b67-3de8-013f-630b-c65bd58d63b0

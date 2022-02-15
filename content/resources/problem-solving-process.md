@@ -2,14 +2,29 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will think about their approach to problem solving.'
+parent_title: Problem Solving
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Problem Solving Process Instructor Guide (PDF)](resources/mitres_tll-004f13_pspr_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: Problem Solving Process
 uid: 366fd8b6-067c-d0df-f6c9-8cc49742755f
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_problem_solving_process_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/b9ed40049c5a5d67bed06f4cf1270172_Zg6wQdMFO2c.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/b9ed40049c5a5d67bed06f4cf1270172_Zg6wQdMFO2c.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Zg6wQdMFO2c/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/8d6842676babf924783199cca4dbc486_Zg6wQdMFO2c.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/8d6842676babf924783199cca4dbc486_Zg6wQdMFO2c.pdf
 video_metadata:
   youtube_id: Zg6wQdMFO2c
 ---

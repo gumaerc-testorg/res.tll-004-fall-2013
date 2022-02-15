@@ -2,14 +2,38 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Be introduced to basic conditional probability notation.
+
+  *   Calculate the probability of an event given certain conditions.
+
+  *   Calculate conditional probabilities using both two-way tables and tree diagrams.
+
+  *   Determine the likelihood of cancer from a given medical diagnosis.'
+parent_title: Probability and Statistics
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Conditional Probability Instructor Guide (PDF)](resources/mitres_tll-004f13_conguide)'
+resource_index_text: ''
 resourcetype: Video
 title: Conditional Probability
 uid: 4c649c2e-b2af-5ce3-8316-5fa6cbe50b40
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_conditional_probabilty_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/90f02479358851b583937bf1dfcd5834_JGeTcRfKgBo.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/90f02479358851b583937bf1dfcd5834_JGeTcRfKgBo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/JGeTcRfKgBo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/95fb7494229bef15ee5974419cbf4144_JGeTcRfKgBo.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/95fb7494229bef15ee5974419cbf4144_JGeTcRfKgBo.pdf
 video_metadata:
   youtube_id: JGeTcRfKgBo
 ---

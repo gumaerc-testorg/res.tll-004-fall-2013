@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/2f66cd6d46626c5f26d9677644705073_RES.TLL-004_F13_Divergence-th.jpg
+file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/2f66cd6d46626c5f26d9677644705073_RES.TLL-004_F13_Divergence-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: RES.TLL-004_F13_Divergence-th.jpg
 uid: 2f66cd6d-4662-6c5f-26d9-677644705073

@@ -1,7 +1,11 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: 53bcb5ef-562b-8c20-bc21-9567e0269453
 title: Conservation
 uid: a8a8f424-8fc2-57db-3740-6b1dff82bf3e

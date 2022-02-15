@@ -1,7 +1,11 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: 53bcb5ef-562b-8c20-bc21-9567e0269453
 title: Problem Solving
 uid: 9b39fef0-8a7d-ea34-0e55-30b48721109e

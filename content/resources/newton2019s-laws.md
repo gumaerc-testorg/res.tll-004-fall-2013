@@ -2,6 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when necessary so
+  that students are able to examine the situations shown.
+
+
+  During this video students will:
+
+
+  *   Imagine where a particular law would apply in a given situation.'
+parent_title: Governing Rules
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Newton''s
+  Laws Instructor Guide (PDF)](resources/mitres_tll-004f13_nwton_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: "Newton\u2019s Laws"
 uid: ab8d924e-623d-fd2f-ed0c-396ba92f9b8c

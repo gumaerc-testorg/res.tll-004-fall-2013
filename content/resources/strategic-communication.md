@@ -2,14 +2,27 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.During the video, students will evaluate several components
+  of an MIT student presentation for effective communication strategy.
+parent_title: Communication
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Strategic Communication Instructor Guide (PDF)](resources/mitres_tll-004f13_srtguide)'
+resource_index_text: ''
 resourcetype: Video
 title: Strategic Communication
 uid: 36b43083-bb2a-2456-e587-54cd906468aa
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_communication_intro_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/9f44173fee3d5b499e77531217fc8538_8r_cJIHv3A0.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/9f44173fee3d5b499e77531217fc8538_8r_cJIHv3A0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/8r_cJIHv3A0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/12f0dabdd84cc0a56b81102d10861a2a_8r_cJIHv3A0.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/12f0dabdd84cc0a56b81102d10861a2a_8r_cJIHv3A0.pdf
 video_metadata:
   youtube_id: 8r_cJIHv3A0
 ---

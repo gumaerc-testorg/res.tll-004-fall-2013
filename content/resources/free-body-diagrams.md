@@ -2,14 +2,35 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Follow along by creating free body diagrams of their own.
+
+  *   Find errors in a set of diagrams presented in the video.'
+parent_title: Representations
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Free
+  Body Diagrams Instructor Guide (PDF)](resources/mitres_tll-004f13_fbd_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: Free Body Diagrams
 uid: 9ceb4eee-7cbe-eb65-e06f-b2d7aacda1bf
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_free_body_diagrams_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/23a806afa9ec585598532377dc77a3f4_AfQEEymfzaI.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/23a806afa9ec585598532377dc77a3f4_AfQEEymfzaI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/AfQEEymfzaI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/6c0233f83ade475d1d2d53515e827056_AfQEEymfzaI.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/6c0233f83ade475d1d2d53515e827056_AfQEEymfzaI.pdf
 video_metadata:
   youtube_id: AfQEEymfzaI
 ---

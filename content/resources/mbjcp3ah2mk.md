@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/4a9114d761413db913becd3d9ef91d3c_mBJCP3AH2Mk.srt
+file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/4a9114d761413db913becd3d9ef91d3c_mBJCP3AH2Mk.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 4a9114d7-6141-3db9-13be-cd3d9ef91d3c

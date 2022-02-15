@@ -2,14 +2,37 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Perform calculations to compare the first and second moments for a molecule
+  making a regular and random walk on a one-dimensional number line.
+
+  *   Estimate the time for a neurotransmitter to diffuse across a synaptic cleft.
+
+  *   Estimate the time for an oxygen molecule to diffuse from the lung to a leg muscle.'
+parent_title: Probability and Statistics
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Diffusion and Fick''s Law Instructor Guide (PDF)](resources/mitres_tll-004f13_d_f_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: Diffusion and Fick's Law
 uid: 17a3573d-1413-348e-e743-01e3ecd439cc
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_diffusion_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/26f89cac08d25d82b0ea0cc26e6f08c7_w4y12u5S0HE.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/26f89cac08d25d82b0ea0cc26e6f08c7_w4y12u5S0HE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/w4y12u5S0HE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/6d1696face0bd456ee482cf27e3d3c62_w4y12u5S0HE.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/6d1696face0bd456ee482cf27e3d3c62_w4y12u5S0HE.pdf
 video_metadata:
   youtube_id: w4y12u5S0HE
 ---

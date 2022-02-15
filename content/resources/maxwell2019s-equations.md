@@ -2,6 +2,20 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: "It is highly recommended that the video is paused when prompted so\
+  \ that students are able to attempt the activities on their own and then check their\
+  \ solutions against the video.\n\nDuring the video, students will brainstorm ways\
+  \ in which Maxwell\u2019s Equations might apply to a particular concept."
+parent_title: Governing Rules
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Maxwell''s
+  Equations Instructor Guide (PDF)](resources/mitres_tll-004f13_max_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: "Maxwell\u2019s Equations"
 uid: 1644dbfd-6b65-6289-4c85-29da102ca381

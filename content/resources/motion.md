@@ -2,14 +2,38 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Determine the position of a robot gripper from measurements of the robot''s
+  components.
+
+  *   Use derivatives to obtain velocity and position from the above information.
+
+  *   Find and apply equations of constraint to solve problems.'
+parent_title: Derivatives and Integrals
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Motion
+  Instructor Guide (PDF)](resources/mitres_tll-004f13_motn_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: Motion
 uid: 5e13ca2a-4e20-879b-ec4a-7236d196e37a
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_motion_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/eda44eb09a565dd191c4501dca1d9e0b_zRslv221V9c.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/eda44eb09a565dd191c4501dca1d9e0b_zRslv221V9c.vtt
   video_thumbnail_file: https://img.youtube.com/vi/zRslv221V9c/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/76560b01f099801c07c1d64a98c25483_zRslv221V9c.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/76560b01f099801c07c1d64a98c25483_zRslv221V9c.pdf
 video_metadata:
   youtube_id: zRslv221V9c
 ---

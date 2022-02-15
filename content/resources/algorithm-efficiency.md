@@ -2,6 +2,31 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Consider resources other than speed and space that must be utilized efficiently
+  in programming.
+
+  *   Calculate the number of function calls needed for a given inefficient solution.
+
+  *   Brainstorm ways to improve the efficiency of a solution.
+
+  *   Consider the efficiency bottlenecks of real-world programming problems.'
+parent_title: Information Flow
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Algorithm Efficiency Instructor Guide (PDF)](resources/mitres_tll-004f13_algo_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: Algorithm Efficiency
 uid: 486f79fe-3902-b4af-c9c4-bd578c991fd6

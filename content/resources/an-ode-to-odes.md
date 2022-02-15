@@ -2,6 +2,32 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Describe the important forces acting on a swinging pendulum.
+
+  *   Discuss whether or not differential equations have unique solutions.
+
+  *   Predict whether two pendulums swinging from the same initial position will have
+  the same behavior.
+
+  *   Determine how many initial conditions are required to specify a solution for
+  a 3rd order differential equation.'
+parent_title: Walter Lewin Removal
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [An Ode to ODEs Instructor Guide (PDF)](resources/mitres_tll-004f13_odeguide)'
+resource_index_text: ''
 resourcetype: Video
 title: An Ode to ODEs
 uid: 1ffd49a2-c8d1-324c-2b0f-9dd62846e47b

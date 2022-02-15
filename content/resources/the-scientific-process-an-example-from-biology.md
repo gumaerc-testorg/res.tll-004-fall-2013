@@ -2,13 +2,29 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will learn about the iterative nature of scientific investigation
+  by "dissecting" an important concrete medical example.'
+parent_title: Problem Solving
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Scientific Process Instructor Guide (PDF)](resources/mitres_tll-004f13_sproc_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: 'The Scientific Process: An Example from Biology'
 uid: ead29943-0029-8103-879b-85914b95ee84
 video_files:
   archive_url: null
   video_captions_file: null
-  video_thumbnail_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/oqURfFE3bQY/default.jpg
   video_transcript_file: null
 video_metadata:
   youtube_id: oqURfFE3bQY

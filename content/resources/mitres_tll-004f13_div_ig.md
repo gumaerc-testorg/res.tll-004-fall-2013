@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: This resource contains information regarding Divergence Instructor Guide.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/a70a54d5fecaa8b36a414ace76a9c257_MITRES_TLL-004F13_Div_IG.pdf
+file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/a70a54d5fecaa8b36a414ace76a9c257_MITRES_TLL-004F13_Div_IG.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: Divergence Instructor Guide
 uid: a70a54d5-feca-a8b3-6a41-4ace76a9c257

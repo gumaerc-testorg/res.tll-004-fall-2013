@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains information regarding buffers transcript.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/31094b8bbd4d951f153e8f478cc0683f_MITRES_TLL-004F13_Buffers.pdf
+file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/31094b8bbd4d951f153e8f478cc0683f_MITRES_TLL-004F13_Buffers.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Structure-Function Properties
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Buffers Transcript
 uid: 31094b8b-bd4d-951f-153e-8f478cc0683f

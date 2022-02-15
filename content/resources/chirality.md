@@ -2,14 +2,41 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Think of everyday objects that are chiral.
+
+  *   Identify objects that are not chiral and try to determine what property of the
+  object makes it achiral.
+
+  *   Determine whether a molecule is chiral based on rules presented in the video.
+
+  *   Examine the chirality of the primary and secondary structure of the Anti-freeze
+  protein, the symmetry of its binding partner, water, and how these two molecules
+  bind.'
+parent_title: Structure-Function Properties
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Chirality Instructor Guide (PDF)](resources/mitres_tll-004f13_chiralig)'
+resource_index_text: ''
 resourcetype: Video
 title: Chirality
 uid: e7f1da01-8524-47fb-18ea-43f97cfbded3
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_chirality_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/8a9a7d080e4c5aefb9b1dfab74c496de_IEPuLyxRmJc.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/8a9a7d080e4c5aefb9b1dfab74c496de_IEPuLyxRmJc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/IEPuLyxRmJc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/f19be223fa9329627fb56703aca4619e_IEPuLyxRmJc.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/f19be223fa9329627fb56703aca4619e_IEPuLyxRmJc.pdf
 video_metadata:
   youtube_id: IEPuLyxRmJc
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 title: Videos
 uid: 53bcb5ef-562b-8c20-bc21-9567e0269453
 videos:
@@ -53,10 +56,10 @@ Successful professional communication begins with the ability to analyze situati
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Conservation]({{< baseurl >}}/video_galleries/videos/conservation)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 In order to analyze or modify a system, it is important to understand how the laws of conservation place constraints on that system.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -94,10 +97,10 @@ In order to analyze or modify a system, it is important to understand how the la
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Derivatives and Integrals]({{< baseurl >}}/video_galleries/videos/derivatives-and-integrals)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Derivatives describe the dependencies of change in a system. Integrals help quantify changing properties.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -153,10 +156,10 @@ Derivatives describe the dependencies of change in a system. Integrals help quan
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 [Differential Equations]({{< baseurl >}}/video_galleries/videos/differential-equations)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Differential equations model changing properties in engineering systems.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -248,10 +251,10 @@ Differential equations model changing properties in engineering systems.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Equilibrium]({{< baseurl >}}/video_galleries/videos/equilibrium)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 To determine whether or not a system is at equilibrium, we must understand how a system's equilibrium state is constrained by its boundary and surroundings.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -305,10 +308,10 @@ To determine whether or not a system is at equilibrium, we must understand how a
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 [Governing Rules]({{< baseurl >}}/video_galleries/videos/governing-rules)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 A small number of rules describe the physical and chemical interactions that are possible in our universe.  
  
 {{< tdclose >}}
@@ -398,10 +401,10 @@ A small number of rules describe the physical and chemical interactions that are
 {{< trclose >}}
 
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Information Flow]({{< baseurl >}}/video_galleries/videos/information-flow)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 This video is part of the Information Flow video series. A system is shaped and changed by the nature and flow of information into, within, and out of the system.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -455,10 +458,10 @@ This video is part of the Information Flow video series. A system is shaped and 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 [Linearity]({{< baseurl >}}/video_galleries/videos/linearity)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Many complex systems are modeled or approximated linearly because of the mathematical advantages.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -533,10 +536,10 @@ Many complex systems are modeled or approximated linearly because of the mathema
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 [Probability and Statistics]({{< baseurl >}}/video_galleries/videos/probability-and-statistics)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Many events and phenomena are probabilistic. Engineers, designers, and architects often use probability distributions to predict system behavior.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -608,10 +611,10 @@ Many events and phenomena are probabilistic. Engineers, designers, and architect
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 [Problem Solving]({{< baseurl >}}/video_galleries/videos/problem-solving)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 Scientists, engineers, and architects must devise solutions to open-ended problems with technical and non-technical dimensions.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -716,10 +719,10 @@ Scientists, engineers, and architects must devise solutions to open-ended proble
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 [Representations]({{< baseurl >}}/video_galleries/videos/representations)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 Information can be represented in words, through mathematical symbols, graphically, or in 3-D models. Representations are used to develop a deeper and more flexible understanding of objects, systems, and processes.
 {{< tdclose >}}
 {{< tdopen >}}
@@ -844,10 +847,10 @@ Information can be represented in words, through mathematical symbols, graphical
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Structure-Function Properties]({{< baseurl >}}/video_galleries/videos/structure-function-properties)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 The structure, function, and properties of a system are related and depend on the processes that define or create the system.
 {{< tdclose >}}
 {{< tdopen >}}

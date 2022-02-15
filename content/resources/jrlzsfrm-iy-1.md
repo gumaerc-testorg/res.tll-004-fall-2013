@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/7b893a4a8d3e9c38506752a229e5bdb1_JrlZSfRM-IY.pdf
+file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/7b893a4a8d3e9c38506752a229e5bdb1_JrlZSfRM-IY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 7b893a4a-8d3e-9c38-5067-52a229e5bdb1

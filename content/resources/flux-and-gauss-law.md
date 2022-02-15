@@ -2,14 +2,35 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Take notes.
+
+  *   Choose appropriate Gaussian surfaces for use in a set of Gauss'' Law problems.'
+parent_title: Derivatives and Integrals
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Flux
+  and Gauss'' Law Instructor Guide (PDF)](resources/mitres_tll-004f13_flxguide)'
+resource_index_text: ''
 resourcetype: Video
 title: Flux and Gauss' Law
 uid: 010f09eb-6263-b262-52cd-13c695d4fe97
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_flux_and_guass_law_intro_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/bd6ff125aed1508a9167b3c42f9e4991_tGqogBLtK4M.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/bd6ff125aed1508a9167b3c42f9e4991_tGqogBLtK4M.vtt
   video_thumbnail_file: https://img.youtube.com/vi/tGqogBLtK4M/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/55b9f22d5f3118599bb9bb70fff7514d_tGqogBLtK4M.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/55b9f22d5f3118599bb9bb70fff7514d_tGqogBLtK4M.pdf
 video_metadata:
   youtube_id: tGqogBLtK4M
 ---

@@ -2,14 +2,37 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Review the definition of a spontaneous process.
+
+  *   Predict the sign of the entropy change for the system and surroundings in a
+  heat diffusion experiment.
+
+  *   Perform a simplified calculation to check their predictions.'
+parent_title: Governing Rules
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Entropy Instructor Guide (PDF)](resources/mitres_tll-004f13_entguide)'
+resource_index_text: ''
 resourcetype: Video
 title: Entropy
 uid: dc339cdf-e574-6110-705e-7a382b8b5cc5
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_entropy_intro_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/1767929900c75d26b3d66fb5ac62056a_870y6GUKbwc.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/1767929900c75d26b3d66fb5ac62056a_870y6GUKbwc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/870y6GUKbwc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/832f857143dd44de83976cc28ee63011_870y6GUKbwc.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/832f857143dd44de83976cc28ee63011_870y6GUKbwc.pdf
 video_metadata:
   youtube_id: 870y6GUKbwc
 ---

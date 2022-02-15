@@ -2,14 +2,40 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Compile a list of physical quantities that have magnitude and direction, and
+  determine whether or not these quantities can be represented with vectors;
+
+  *   Determine how to add vectors by using intuition about displacements;
+
+  *   Determine if forces and rotations have vector properties.
+
+  *   Discuss and explain a chair-lifting trick'
+parent_title: Representations
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Vectors
+  Instructor Guide (PDF)](resources/mitres_tll-004f13_vecguide)'
+resource_index_text: ''
 resourcetype: Video
 title: Vectors
 uid: a1c2edf1-c6d5-21ad-f98e-934625e90b6a
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_vectors_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/4eb915c0cddf54eb8db0f129441a1d59_mVQOmLTXLbQ.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/4eb915c0cddf54eb8db0f129441a1d59_mVQOmLTXLbQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/mVQOmLTXLbQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/6fb79938300be0eb39c0ddc5d539847f_mVQOmLTXLbQ.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/6fb79938300be0eb39c0ddc5d539847f_mVQOmLTXLbQ.pdf
 video_metadata:
   youtube_id: mVQOmLTXLbQ
 ---

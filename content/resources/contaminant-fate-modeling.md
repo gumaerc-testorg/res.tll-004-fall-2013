@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will brainstorm chemical and physical processes that
+  might remove estrogens from Massachusetts Bay.'
+parent_title: Differential Equations
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Contaminant Fate Modeling Instructor Guide (PDF)](resources/mitres_tll-004f13_cnfat_ig)'
+resource_index_text: ''
 resourcetype: Video
 title: Contaminant Fate Modeling
 uid: ecc66009-4f3c-1d95-85d9-44d9b0721401
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_contaminant_fate_modeling_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/964be427a478544790075a735ee76b5e_mBJCP3AH2Mk.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/964be427a478544790075a735ee76b5e_mBJCP3AH2Mk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/mBJCP3AH2Mk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/98b81edee7fbcbeb018f3be45b39dec1_mBJCP3AH2Mk.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/98b81edee7fbcbeb018f3be45b39dec1_mBJCP3AH2Mk.pdf
 video_metadata:
   youtube_id: mBJCP3AH2Mk
 ---

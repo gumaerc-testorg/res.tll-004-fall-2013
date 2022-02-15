@@ -2,14 +2,39 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Consider the idea of repetition in a simplified, non-programming example: eating
+  cereal.
+
+  *   Learn the basic code framework of recursive and iterative techniques.
+
+  *   Formulate recursive and iterative solutions to a string manipulation example.
+
+  *   Devise and check a recursive solution to the famous Towers of Hanoi problem.'
+parent_title: Problem Solving
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Basic Programming Techniques Instructor Guide (PDF)](resources/mitres_tll-004f13_basguide)'
+resource_index_text: ''
 resourcetype: Video
 title: Basic Programming Techniques
 uid: ce5f8650-7091-5588-6f63-5ecb56351751
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_basic_programming_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/62384e56829350fb81b53b1bf54ec5e2_0BDi0d1j7u0.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/62384e56829350fb81b53b1bf54ec5e2_0BDi0d1j7u0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0BDi0d1j7u0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/f3aaeea5d583ec852dcfdbebd80e0e5c_0BDi0d1j7u0.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/f3aaeea5d583ec852dcfdbebd80e0e5c_0BDi0d1j7u0.pdf
 video_metadata:
   youtube_id: 0BDi0d1j7u0
 ---

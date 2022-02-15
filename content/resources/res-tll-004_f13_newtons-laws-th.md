@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/e3c6f69b9cc37061f594e415d8598c74_RES.TLL-004_F13_Newtons-Laws-th.jpg
+file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/e3c6f69b9cc37061f594e415d8598c74_RES.TLL-004_F13_Newtons-Laws-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: RES.TLL-004_F13_Newtons-Laws-th.jpg
 uid: e3c6f69b-9cc3-7061-f594-e415d8598c74

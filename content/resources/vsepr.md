@@ -2,14 +2,40 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students:
+
+
+  *   Apply the VSEPR model to predict the three-dimensional shape of molecules.
+
+  *   Construct molecules having the following geometries: linear, trigonal planar,
+  bent, tetrahedral, trigonal pyramidal, octahedral, and square pyramidal.
+
+  *   Check their solutions against the video.
+
+  *   Recognize the primary assumptions and limitations of the VSEPR model.'
+parent_title: Representations
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[VSEPR
+  Instructor Guide (PDF)](resources/mitres_tll-004f13_vsguide)'
+resource_index_text: ''
 resourcetype: Video
 title: VSEPR
 uid: 0068d267-b8b1-0aa8-1e7c-a7eb42e1bb12
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_vsepr_intro_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/227c565dc56a5513a3d721d2211989f3_l8HAiSLPSn8.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/227c565dc56a5513a3d721d2211989f3_l8HAiSLPSn8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/l8HAiSLPSn8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/f604bea71f3430dafc0ef3eec9bbbd73_l8HAiSLPSn8.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/f604bea71f3430dafc0ef3eec9bbbd73_l8HAiSLPSn8.pdf
 video_metadata:
   youtube_id: l8HAiSLPSn8
 ---
