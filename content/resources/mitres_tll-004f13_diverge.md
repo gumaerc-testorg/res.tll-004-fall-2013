@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Differential Equations
 parent_type: SupplementalResourceSection
+parent_uid: 7e7fcfb2-1302-97e4-3da2-fb9fcaab47f4
 resourcetype: Document
 title: Divergence Transcript
 uid: 6dcaf2b2-5971-f502-6d85-65d5af569b1f

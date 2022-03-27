@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Information Flow
 parent_type: SupplementalResourceSection
+parent_uid: d7d35752-0244-2e35-07f0-770dd52a9b88
 resourcetype: Document
 title: Feedback Loops Transcript
 uid: 8971b7f1-0982-92fb-9605-37e0c1e3381a

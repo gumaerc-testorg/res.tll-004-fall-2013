@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Communication
 parent_type: SupplementalResourceSection
+parent_uid: d7a76512-aa4a-9913-9523-149a8c527e95
 resourcetype: Document
 title: Strategic Communication Transcript
 uid: 9e2b07a8-961c-e24c-dbef-8e0df0c36b9a

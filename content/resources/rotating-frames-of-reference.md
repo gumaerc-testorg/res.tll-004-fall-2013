@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -40,6 +41,7 @@ related_resources_text: 'Instructor Guide
   [Rotating Frames of Reference Instructor Guide (PDF)](resources/mitres_tll-004f13_rotguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Rotating Frames of Reference
 uid: 99ea6488-30bb-19c9-1ce7-16dd22a43133
 video_files:

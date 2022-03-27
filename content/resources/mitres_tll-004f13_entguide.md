@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Governing Rules
 parent_type: SupplementalResourceSection
+parent_uid: 5c800495-c618-099d-4802-9286b0d45a90
 resourcetype: Document
 title: Entropy Instructor Guide
 uid: e6769deb-59c1-87e9-4903-f5f423f07c00

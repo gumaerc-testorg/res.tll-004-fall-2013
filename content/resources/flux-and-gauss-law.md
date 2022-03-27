@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -24,6 +25,7 @@ related_resources_text: 'Instructor Guide
   and Gauss'' Law Instructor Guide (PDF)](resources/mitres_tll-004f13_flxguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Flux and Gauss' Law
 uid: 010f09eb-6263-b262-52cd-13c695d4fe97
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -19,6 +20,7 @@ related_resources_text: 'Instructor Guide
   [Scientific Process Instructor Guide (PDF)](resources/mitres_tll-004f13_sproc_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'The Scientific Process: An Example from Biology'
 uid: ead29943-0029-8103-879b-85914b95ee84
 video_files:

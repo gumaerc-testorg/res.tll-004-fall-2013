@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -32,6 +33,7 @@ related_resources_text: 'Instructor Guide
   [Equilibrium vs. Steady State Instructor Guide (PDF)](resources/mitres_tll-004f13_equguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Equilibrium vs. Steady State
 uid: 8589cac8-e1b3-fa32-48ae-268b20f1573c
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -32,6 +33,7 @@ related_resources_text: 'Instructor Guide
   [Kinetic Theory Instructor Guide (PDF)](resources/mitres_tll-004f13_kinguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Kinetic Theory
 uid: 195e7c24-be3e-ee90-ee9e-e0088cc1b746
 video_files:

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: SupplementalResourceSection
+parent_uid: 9b39fef0-8a7d-ea34-0e55-30b48721109e
 resourcetype: Document
 title: Unit Analysis Instructor Guide
 uid: d55b3b18-17c5-633b-04b3-2a3f81736d0d

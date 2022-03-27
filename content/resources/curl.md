@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -28,6 +29,7 @@ related_resources_text: 'Instructor Guide
   [Curl Instructor Guide (PDF)](resources/mitres_tll-004f13_curl_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Curl
 uid: 6200df4a-290e-4587-c8bf-27bb18171bee
 video_files:

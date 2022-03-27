@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linearity
 parent_type: SupplementalResourceSection
+parent_uid: 408da444-4ea5-a84d-94db-f30ef2be5696
 resourcetype: Document
 title: Linear Approximations Transcript
 uid: 9bea3a0b-1b71-40e3-f862-f83ee0499e50

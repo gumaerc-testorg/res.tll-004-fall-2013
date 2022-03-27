@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Probability and Statistics
 parent_type: SupplementalResourceSection
+parent_uid: a0c7838a-f9cd-dcf2-a8b0-7bc9d6fc46d0
 resourcetype: Document
 title: Conditional Probability Instructor Guide
 uid: e2fe86e5-3beb-0004-2d01-b5b7db4c50c2

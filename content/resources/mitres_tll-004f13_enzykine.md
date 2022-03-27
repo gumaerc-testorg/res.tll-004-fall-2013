@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Differential Equations
 parent_type: SupplementalResourceSection
+parent_uid: 7e7fcfb2-1302-97e4-3da2-fb9fcaab47f4
 resourcetype: Document
 title: Kinetic Theory Transcript
 uid: 90661ae9-cbaa-727f-64c2-e5f2a466a8d7

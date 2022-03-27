@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -27,6 +28,7 @@ related_resources_text: 'Instructor Guide
   [Linear Approximations Instructor Guide (PDF)](resources/mitres_tll-004f13_linap_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Linear Approximations
 uid: 0a16b964-0fac-e725-a189-89a8593cf0a0
 video_files:

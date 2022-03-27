@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: SupplementalResourceSection
+parent_uid: 9b39fef0-8a7d-ea34-0e55-30b48721109e
 resourcetype: Document
 title: Art of Approximation Instructor Guide
 uid: 553f799e-ed99-1141-af66-88c8150a0f06

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Walter Lewin Removal
 parent_type: SupplementalResourceSection
+parent_uid: 4e02974d-6375-4176-cb96-f536107d96bf
 resourcetype: Document
 title: An Ode to ODEs Transcript
 uid: 629802c7-e3b1-9de3-0fdd-6804c7406afb

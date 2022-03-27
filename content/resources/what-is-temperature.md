@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -29,6 +30,7 @@ related_resources_text: 'Instructor Guide
   [What is Temperature? Instructor Guide (PDF)](resources/mitres_tll-004f13_temguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: What is Temperature?
 uid: 5ba04968-c248-2296-80ad-6eadc035ba99
 video_files:

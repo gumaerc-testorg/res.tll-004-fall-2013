@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Structure-Function Properties
 parent_type: SupplementalResourceSection
+parent_uid: 5c73ad5d-a665-9efe-f8ba-e6338c5eee3b
 resourcetype: Image
 title: res.tl.004_image11.jpg
 uid: b9a34816-bbc6-3c1b-74a7-a95a4b5c8f4e

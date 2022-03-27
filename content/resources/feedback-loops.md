@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -27,6 +28,7 @@ related_resources_text: 'Instructor Guide
   [Feedback Loops Instructor Guide (PDF)](resources/mitres_tll-004f13_feeguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Feedback Loops
 uid: 725e10c0-5098-67bb-b0a8-7014ce6e2ba4
 video_files:

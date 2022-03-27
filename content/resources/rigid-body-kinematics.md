@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -32,6 +33,7 @@ related_resources_text: 'Instructor Guide
   [Rigid Body Kinematics Instructor Guide (PDF)](resources/mitres_tll-004f13_rbkin_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Rigid Body Kinematics
 uid: 875b5953-2877-8348-85b8-13d361636d60
 video_files:

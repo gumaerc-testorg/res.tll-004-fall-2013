@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -26,6 +27,7 @@ related_resources_text: 'Instructor Guide
   [Entropy Instructor Guide (PDF)](resources/mitres_tll-004f13_entguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Entropy
 uid: dc339cdf-e574-6110-705e-7a382b8b5cc5
 video_files:

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Derivatives and Integrals
 parent_type: SupplementalResourceSection
+parent_uid: ee1c17b9-3698-e35b-3fca-8ea85cec751a
 resourcetype: Document
 title: Electric Potential Instructor Guide
 uid: cc7e2d37-2095-4459-623d-bf3cdeeb7815

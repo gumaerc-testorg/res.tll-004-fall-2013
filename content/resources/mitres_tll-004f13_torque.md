@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Representations
 parent_type: SupplementalResourceSection
+parent_uid: 4ec91b67-3de8-013f-630b-c65bd58d63b0
 resourcetype: Document
 title: Torque Transcript
 uid: 6831ab0a-e114-d9be-b209-5b7e860b3e72

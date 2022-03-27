@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Derivatives and Integrals
 parent_type: SupplementalResourceSection
+parent_uid: ee1c17b9-3698-e35b-3fca-8ea85cec751a
 resourcetype: Document
 title: Motion Transcript
 uid: 1f9d3f37-da21-60b9-9406-ce9b8d2d6266

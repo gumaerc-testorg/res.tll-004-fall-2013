@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Representations
 parent_type: SupplementalResourceSection
+parent_uid: 4ec91b67-3de8-013f-630b-c65bd58d63b0
 resourcetype: Document
 title: VSEPR Instructor Guide
 uid: 415c7268-da0e-b855-c996-ed4b3129c0ad

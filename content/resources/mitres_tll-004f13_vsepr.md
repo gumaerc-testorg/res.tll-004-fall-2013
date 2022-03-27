@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Representations
 parent_type: SupplementalResourceSection
+parent_uid: 4ec91b67-3de8-013f-630b-c65bd58d63b0
 resourcetype: Document
 title: VSEPR Transcript
 uid: aabd4295-5d1d-5e13-dba8-5da273407cf4

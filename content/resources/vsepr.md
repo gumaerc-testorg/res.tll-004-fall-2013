@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -29,6 +30,7 @@ related_resources_text: 'Instructor Guide
   Instructor Guide (PDF)](resources/mitres_tll-004f13_vsguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: VSEPR
 uid: 0068d267-b8b1-0aa8-1e7c-a7eb42e1bb12
 video_files:

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Derivatives and Integrals
 parent_type: SupplementalResourceSection
+parent_uid: ee1c17b9-3698-e35b-3fca-8ea85cec751a
 resourcetype: Image
 title: res-tl-004-image2.jpg
 uid: cd2a7234-98f5-eeb9-25f0-9e2b37a6cc8f

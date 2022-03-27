@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Differential Equations
 parent_type: SupplementalResourceSection
+parent_uid: 7e7fcfb2-1302-97e4-3da2-fb9fcaab47f4
 resourcetype: Document
 title: Gradient Transcript
 uid: 52dec803-14c7-447b-82d0-901156834753

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Communication
 parent_type: SupplementalResourceSection
+parent_uid: d7a76512-aa4a-9913-9523-149a8c527e95
 resourcetype: Document
 title: Strategic Communication Instructor Guide
 uid: f55d4aec-8069-ddae-dfd7-aebfe625a9be

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -32,6 +33,7 @@ related_resources_text: 'Instructor Guide
   Trains Instructor Guide (PDF)](resources/mitres_tll-004f13_geaguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Gear Trains
 uid: ae481c61-de15-266f-2458-5c29a1b79749
 video_files:

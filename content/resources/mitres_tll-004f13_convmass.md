@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Conservation
 parent_type: SupplementalResourceSection
+parent_uid: a8a8f424-8fc2-57db-3740-6b1dff82bf3e
 resourcetype: Document
 title: Conservation of Mass Transcript
 uid: 1a425734-e26e-4a63-91e5-63d54f7c995c

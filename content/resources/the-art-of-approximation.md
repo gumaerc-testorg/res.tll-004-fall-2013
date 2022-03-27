@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -31,6 +32,7 @@ related_resources_text: 'Instructor Guide
   [The Art of Approximation Instructor Guide (PDF)](resources/mitres_tll-004f13_artguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: The Art of Approximation
 uid: 86223139-7bdc-b786-4552-3f417730f1be
 video_files:

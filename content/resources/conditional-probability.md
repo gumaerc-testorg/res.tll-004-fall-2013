@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -27,6 +28,7 @@ related_resources_text: 'Instructor Guide
   [Conditional Probability Instructor Guide (PDF)](resources/mitres_tll-004f13_conguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Conditional Probability
 uid: 4c649c2e-b2af-5ce3-8316-5fa6cbe50b40
 video_files:

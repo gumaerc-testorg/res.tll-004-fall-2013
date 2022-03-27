@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -24,6 +25,7 @@ related_resources_text: 'Instructor Guide
   Body Diagrams Instructor Guide (PDF)](resources/mitres_tll-004f13_fbd_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Free Body Diagrams
 uid: 9ceb4eee-7cbe-eb65-e06f-b2d7aacda1bf
 video_files:

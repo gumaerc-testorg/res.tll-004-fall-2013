@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Governing Rules
 parent_type: SupplementalResourceSection
+parent_uid: 5c800495-c618-099d-4802-9286b0d45a90
 resourcetype: Document
 title: "Newton\u2019s Laws Transcript"
 uid: 5952be37-86c3-24f8-3273-32944204f170

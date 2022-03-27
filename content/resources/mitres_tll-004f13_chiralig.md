@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Structure-Function Properties
 parent_type: SupplementalResourceSection
+parent_uid: 5c73ad5d-a665-9efe-f8ba-e6338c5eee3b
 resourcetype: Document
 title: Chirality Instructor Guide
 uid: a66680d2-23bc-70f4-6578-103050914234

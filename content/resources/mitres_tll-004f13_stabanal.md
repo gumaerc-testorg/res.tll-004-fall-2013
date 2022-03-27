@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linearity
 parent_type: SupplementalResourceSection
+parent_uid: 408da444-4ea5-a84d-94db-f30ef2be5696
 resourcetype: Document
 title: Stability Analysis Transcript
 uid: 8eb3566e-8721-796c-a9fd-78487a7f76bf

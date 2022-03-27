@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Differential Equations
 parent_type: SupplementalResourceSection
+parent_uid: 7e7fcfb2-1302-97e4-3da2-fb9fcaab47f4
 resourcetype: Document
 title: Enzyme Kinetics Instructor Guide
 uid: 6e1a1a6f-4c0b-66a8-cfae-1a6432466c36

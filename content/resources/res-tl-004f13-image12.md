@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Conservation
 parent_type: SupplementalResourceSection
+parent_uid: a8a8f424-8fc2-57db-3740-6b1dff82bf3e
 resourcetype: Image
 title: res-tl-004f13-image12.jpg
 uid: 295b945e-b749-f632-1776-94c17ad00bce

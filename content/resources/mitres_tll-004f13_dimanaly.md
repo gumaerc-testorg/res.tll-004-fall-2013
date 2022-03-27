@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: SupplementalResourceSection
+parent_uid: 9b39fef0-8a7d-ea34-0e55-30b48721109e
 resourcetype: Document
 title: Dimensional Analysis Transcript
 uid: 0a468820-bb8e-1b3f-4fa0-9fa282c72b77

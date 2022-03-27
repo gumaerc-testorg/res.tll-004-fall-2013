@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Information Flow
 parent_type: SupplementalResourceSection
+parent_uid: d7d35752-0244-2e35-07f0-770dd52a9b88
 resourcetype: Image
 title: res.tl.004_image6.jpg
 uid: 8bb745ae-390c-9b5f-b528-b6bf71fb1628

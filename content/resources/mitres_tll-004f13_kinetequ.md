@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Equilibrium
 parent_type: SupplementalResourceSection
+parent_uid: 1d043581-7256-fa29-ca4f-15acce3e863c
 resourcetype: Document
 title: Kinetics and Equilibrium Transcript
 uid: 8694216c-f902-8cb8-a111-5b55466335a0

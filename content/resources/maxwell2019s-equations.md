@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -17,6 +18,7 @@ related_resources_text: 'Instructor Guide
   Equations Instructor Guide (PDF)](resources/mitres_tll-004f13_max_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Maxwell\u2019s Equations"
 uid: 1644dbfd-6b65-6289-4c85-29da102ca381
 video_files:

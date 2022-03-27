@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -30,6 +31,7 @@ related_resources_text: 'Instructor Guide
   [Chirality Instructor Guide (PDF)](resources/mitres_tll-004f13_chiralig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Chirality
 uid: e7f1da01-8524-47fb-18ea-43f97cfbded3
 video_files:

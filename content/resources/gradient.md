@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -19,6 +20,7 @@ related_resources_text: 'Instructor Guide
   [Gradient Instructor Guide (PDF)](resources/mitres_tll-004f13_grdguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Gradient
 uid: d100e428-782c-b163-1e58-67fd7984f6d7
 video_files:

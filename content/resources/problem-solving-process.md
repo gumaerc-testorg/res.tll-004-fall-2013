@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -18,6 +19,7 @@ related_resources_text: 'Instructor Guide
   [Problem Solving Process Instructor Guide (PDF)](resources/mitres_tll-004f13_pspr_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Problem Solving Process
 uid: 366fd8b6-067c-d0df-f6c9-8cc49742755f
 video_files:

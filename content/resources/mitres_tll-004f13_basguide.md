@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: SupplementalResourceSection
+parent_uid: 9b39fef0-8a7d-ea34-0e55-30b48721109e
 resourcetype: Document
 title: Basic Programming Techniques Instructor Guide
 uid: 945c2399-edef-afb5-135a-b9fd4d884422

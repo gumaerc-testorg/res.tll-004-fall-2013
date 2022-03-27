@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -20,6 +21,7 @@ related_resources_text: 'Instructor Guide
   [Vector Fields Instructor Guide (PDF)](resources/mitres_tll-004f13_vecf_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Vector Fields
 uid: 3f62369e-e0f3-c10c-eeb4-b4df89633d52
 video_files:

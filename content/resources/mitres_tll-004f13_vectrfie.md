@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Representations
 parent_type: SupplementalResourceSection
+parent_uid: 4ec91b67-3de8-013f-630b-c65bd58d63b0
 resourcetype: Document
 title: Vector Fields Transcript
 uid: 7385e320-ac09-e2fc-7e24-6ec8a211d697

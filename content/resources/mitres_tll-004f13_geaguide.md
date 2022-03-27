@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linearity
 parent_type: SupplementalResourceSection
+parent_uid: 408da444-4ea5-a84d-94db-f30ef2be5696
 resourcetype: Document
 title: Gear Trains Instructor Guide
 uid: 13590b5a-9911-6c03-c510-19c1e094d284

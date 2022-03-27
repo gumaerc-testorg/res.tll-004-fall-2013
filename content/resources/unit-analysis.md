@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -27,6 +28,7 @@ related_resources_text: 'Instructor Guide
   Analysis Instructor Guide (PDF)](resources/mitres_tll-004f13_untguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Unit Analysis
 uid: a36665e8-79b1-bd48-5d71-32e681d6623e
 video_files:

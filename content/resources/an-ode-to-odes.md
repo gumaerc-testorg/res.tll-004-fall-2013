@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -29,6 +30,7 @@ related_resources_text: 'Instructor Guide
   [An Ode to ODEs Instructor Guide (PDF)](resources/mitres_tll-004f13_odeguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: An Ode to ODEs
 uid: 1ffd49a2-c8d1-324c-2b0f-9dd62846e47b
 video_files:

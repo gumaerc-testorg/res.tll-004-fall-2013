@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Equilibrium
 parent_type: SupplementalResourceSection
+parent_uid: 1d043581-7256-fa29-ca4f-15acce3e863c
 resourcetype: Document
 title: Equilibrium vs. Steady State Instructor Guide
 uid: 348d3d5d-6f0e-d303-d6d9-d27337c6b5fe

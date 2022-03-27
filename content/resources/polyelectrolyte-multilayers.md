@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -19,6 +20,7 @@ related_resources_text: 'Instructor Guide
   [Polyelectrolyte Multilayers Instructor Guide (PDF)](resources/mitres_tll-004f13_polguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Polyelectrolyte Multilayers
 uid: 3c00f702-d5db-d670-b145-1e542ba85980
 video_files:

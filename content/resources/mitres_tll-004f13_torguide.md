@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Representations
 parent_type: SupplementalResourceSection
+parent_uid: 4ec91b67-3de8-013f-630b-c65bd58d63b0
 resourcetype: Document
 title: Torque Instructor Guide
 uid: fc83c6d0-987c-7b79-3f96-85f5a3c99fb5

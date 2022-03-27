@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Structure-Function Properties
 parent_type: SupplementalResourceSection
+parent_uid: 5c73ad5d-a665-9efe-f8ba-e6338c5eee3b
 resourcetype: Document
 title: Buffers Instructor Guide
 uid: 6b7599b7-aaeb-fd44-9ca9-137ab696d599

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linearity
 parent_type: SupplementalResourceSection
+parent_uid: 408da444-4ea5-a84d-94db-f30ef2be5696
 resourcetype: Document
 title: Rigid Body Kinematics Transcript
 uid: 4248e55d-52c1-1a34-6464-8eee246467d8

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -28,6 +29,7 @@ related_resources_text: 'Instructor Guide
   Potential Instructor Guide (PDF - 1.1MB)](resources/mitres_tll-004f13_eleguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Electric Potential
 uid: 2b71960e-5b43-d2ae-b9bf-30108354d14f
 video_files:

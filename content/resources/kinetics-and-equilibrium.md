@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -31,6 +32,7 @@ related_resources_text: 'Instructor Guide
   [Kinetics and Equilibrium Instructor Guide (PDF)](resources/mitres_tll-004f13_kin_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Kinetics and Equilibrium
 uid: 459dae4d-938f-c4d8-540c-92384b897f32
 video_files:

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Equilibrium
 parent_type: SupplementalResourceSection
+parent_uid: 1d043581-7256-fa29-ca4f-15acce3e863c
 resourcetype: Document
 title: What is Temperature Instructor Guide
 uid: 973960a8-9967-e9be-2e9a-888d67b0cc0c

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -16,6 +17,7 @@ related_resources_text: 'Instructor Guide
   [Strategic Communication Instructor Guide (PDF)](resources/mitres_tll-004f13_srtguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Strategic Communication
 uid: 36b43083-bb2a-2456-e587-54cd906468aa
 video_files:

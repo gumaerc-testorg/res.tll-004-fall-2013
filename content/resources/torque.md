@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -28,6 +29,7 @@ related_resources_text: 'Instructor Guide
   Instructor Guide (PDF)](resources/mitres_tll-004f13_torguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Torque
 uid: f84a73e4-6e8d-bea5-e0bd-691678367ac6
 video_files:

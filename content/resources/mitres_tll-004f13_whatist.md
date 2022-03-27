@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Equilibrium
 parent_type: SupplementalResourceSection
+parent_uid: 1d043581-7256-fa29-ca4f-15acce3e863c
 resourcetype: Document
 title: What is Temperature Transcript
 uid: e9a988bd-d0b3-a67f-c15d-98a99bc034e3

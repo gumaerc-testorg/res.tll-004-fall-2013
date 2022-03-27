@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -27,6 +28,7 @@ related_resources_text: 'Instructor Guide
   Kinetics Instructor Guide (PDF)](resources/mitres_tll-004f13_enzguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Enzyme Kinetics
 uid: c08191be-1e1b-45d7-7e86-c936c20d1a9b
 video_files:

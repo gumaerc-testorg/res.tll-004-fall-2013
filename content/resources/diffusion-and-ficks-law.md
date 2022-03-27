@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -26,6 +27,7 @@ related_resources_text: 'Instructor Guide
   [Diffusion and Fick''s Law Instructor Guide (PDF)](resources/mitres_tll-004f13_d_f_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Diffusion and Fick's Law
 uid: 17a3573d-1413-348e-e743-01e3ecd439cc
 video_files:

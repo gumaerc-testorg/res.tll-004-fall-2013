@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Differential Equations
 parent_type: SupplementalResourceSection
+parent_uid: 7e7fcfb2-1302-97e4-3da2-fb9fcaab47f4
 resourcetype: Document
 title: Curl Transcript
 uid: 1167084d-3d87-18d0-a910-0d12b663a628

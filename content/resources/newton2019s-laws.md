@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -21,6 +22,7 @@ related_resources_text: 'Instructor Guide
   Laws Instructor Guide (PDF)](resources/mitres_tll-004f13_nwton_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Newton\u2019s Laws"
 uid: ab8d924e-623d-fd2f-ed0c-396ba92f9b8c
 video_files:

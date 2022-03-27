@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -29,6 +30,7 @@ related_resources_text: 'Instructor Guide
   Instructor Guide (PDF)](resources/mitres_tll-004f13_vecguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Vectors
 uid: a1c2edf1-c6d5-21ad-f98e-934625e90b6a
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -27,6 +28,7 @@ related_resources_text: 'Instructor Guide
   Instructor Guide (PDF)](resources/mitres_tll-004f13_motn_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Motion
 uid: 5e13ca2a-4e20-879b-ec4a-7236d196e37a
 video_files:

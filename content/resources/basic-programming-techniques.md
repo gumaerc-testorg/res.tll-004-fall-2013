@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -28,6 +29,7 @@ related_resources_text: 'Instructor Guide
   [Basic Programming Techniques Instructor Guide (PDF)](resources/mitres_tll-004f13_basguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Basic Programming Techniques
 uid: ce5f8650-7091-5588-6f63-5ecb56351751
 video_files:

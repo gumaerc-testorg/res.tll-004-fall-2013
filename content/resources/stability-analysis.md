@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -36,6 +37,7 @@ related_resources_text: 'Instructor Guide
   Analysis Instructor Guide (PDF)](resources/mitres_tll-004f13_stbal_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Stability Analysis
 uid: 96c47832-95d3-f194-6670-58829419579a
 video_files:

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Structure-Function Properties
 parent_type: SupplementalResourceSection
+parent_uid: 5c73ad5d-a665-9efe-f8ba-e6338c5eee3b
 resourcetype: Document
 title: Polyelectrolyte Multilayers Instructor Guide
 uid: 94c434c8-697f-fb13-c73d-f860df79d90a

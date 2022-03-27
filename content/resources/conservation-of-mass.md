@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Student Experience
@@ -27,6 +28,7 @@ related_resources_text: 'Instructor Guide
   [Conservation of Mass Instructor Guide (PDF)](resources/mitres_tll-004f13_cmass_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Conservation of Mass
 uid: 48a5c02a-9e70-e675-6159-1df8556af84c
 video_files:
