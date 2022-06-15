@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/e3c6f69b9cc37061f594e415d8598c74_RES.TLL-004_F13_Newtons-Laws-th.jpg
+file: /courses/res-tll-004-stem-concept-videos-fall-2013/e3c6f69b9cc37061f594e415d8598c74_RES.TLL-004_F13_Newtons-Laws-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -12,4 +12,10 @@ ocw_type: OCWImage
 resourcetype: Image
 title: RES.TLL-004_F13_Newtons-Laws-th.jpg
 uid: e3c6f69b-9cc3-7061-f594-e415d8598c74
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

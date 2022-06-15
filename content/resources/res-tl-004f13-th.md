@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/e13c82e59907351448023037c8684bde_res-tl-004f13-th.jpg
+file: /courses/res-tll-004-stem-concept-videos-fall-2013/e13c82e59907351448023037c8684bde_res-tl-004f13-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The icons above represent the themes covered in the STEM Concept Videos,
@@ -15,4 +15,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: res-tl-004f13-th.jpg
 uid: e13c82e5-9907-3514-4802-3037c8684bde
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

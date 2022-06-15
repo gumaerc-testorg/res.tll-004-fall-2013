@@ -26,7 +26,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Genetics and Statistics Instructor Guide (PDF)](resources/mitres_tll-004f13_gntcs_ig)'
+  [Genetics and Statistics Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_gntcs_ig)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -56,3 +56,6 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Student Experience
 optional_text: 'During the video, students will:
 
@@ -18,7 +19,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Vector Fields Instructor Guide (PDF)](resources/mitres_tll-004f13_vecf_ig)'
+  [Vector Fields Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_vecf_ig)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -51,3 +52,6 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+
+
+

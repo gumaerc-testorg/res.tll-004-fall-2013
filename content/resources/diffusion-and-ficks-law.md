@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Student Experience
 optional_text: 'It is highly recommended that the video is paused when prompted so
   that students are able to attempt the activities on their own and then check their
@@ -24,7 +25,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Diffusion and Fick''s Law Instructor Guide (PDF)](resources/mitres_tll-004f13_d_f_ig)'
+  [Diffusion and Fick''s Law Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_d_f_ig)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -57,3 +58,6 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+
+
+

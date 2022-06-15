@@ -25,7 +25,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Latent Heat Instructor Guide (PDF)](resources/mitres_tll-004f13_latnt_ig)'
+  [Latent Heat Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_latnt_ig)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -58,3 +58,6 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+
+
+

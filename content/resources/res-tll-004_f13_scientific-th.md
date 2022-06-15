@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/23d660944a4f4ec61921e166e313e161_RES.TLL-004_F13_Scientific-th.jpg
+file: /courses/res-tll-004-stem-concept-videos-fall-2013/23d660944a4f4ec61921e166e313e161_RES.TLL-004_F13_Scientific-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -12,4 +12,10 @@ ocw_type: OCWImage
 resourcetype: Image
 title: RES.TLL-004_F13_Scientific-th.jpg
 uid: 23d66094-4a4f-4ec6-1921-e166e313e161
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+
