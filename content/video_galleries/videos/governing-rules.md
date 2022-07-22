@@ -1,10 +1,19 @@
 ---
 content_type: page
+description: ''
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: 53bcb5ef-562b-8c20-bc21-9567e0269453
 title: Governing Rules
 uid: 5c800495-c618-099d-4802-9286b0d45a90
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - dc339cdf-e574-6110-705e-7a382b8b5cc5
@@ -18,7 +27,7 @@ videos:
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![res_tl_004_image5.jpg]({{< resource_file 7482a485-a5b1-95eb-3f4f-6aaddf2f867d >}})
+{{< resource 7482a485-a5b1-95eb-3f4f-6aaddf2f867d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 

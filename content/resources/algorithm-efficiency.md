@@ -1,8 +1,37 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Consider resources other than speed and space that must be utilized efficiently
+  in programming.
+
+  *   Calculate the number of function calls needed for a given inefficient solution.
+
+  *   Brainstorm ways to improve the efficiency of a solution.
+
+  *   Consider the efficiency bottlenecks of real-world programming problems.'
+parent_title: Information Flow
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Algorithm Efficiency Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_algo_ig)'
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Algorithm Efficiency
 uid: 486f79fe-3902-b4af-c9c4-bd578c991fd6
 video_files:
@@ -33,3 +62,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+

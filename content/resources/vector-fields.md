@@ -1,15 +1,36 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: Student Experience
+optional_text: 'During the video, students will:
+
+
+  *   Observe the flow field around an airplane wing in a wind tunnel, using a smoke
+  probe visualization.
+
+  *   Connect the definition of the vector field and their understanding of flow lines
+  to a visual example.'
+parent_title: Representations
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Vector Fields Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_vecf_ig)'
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Vector Fields
 uid: 3f62369e-e0f3-c10c-eeb4-b4df89633d52
 video_files:
   archive_url: http://www.archive.org/download/MITRES.TLL-004F13/MITRES_TLL-004F13_vector_fields_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/53d49fadbee7550d8dcce9adb30e9edb_DRte6vRCIgI.vtt
+  video_captions_file: /courses/res-tll-004-stem-concept-videos-fall-2013/53d49fadbee7550d8dcce9adb30e9edb_DRte6vRCIgI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/DRte6vRCIgI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-tll-004-stem-concept-videos-fall-2013/6e4799107b9c3efcedbc01ac495755a0_DRte6vRCIgI.pdf
+  video_transcript_file: /courses/res-tll-004-stem-concept-videos-fall-2013/6e4799107b9c3efcedbc01ac495755a0_DRte6vRCIgI.pdf
 video_metadata:
   youtube_id: DRte6vRCIgI
 ---
@@ -32,3 +53,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+

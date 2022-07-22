@@ -1,8 +1,37 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: Student Experience
+optional_text: 'It is highly recommended that the video is paused when prompted so
+  that students are able to attempt the activities on their own and then check their
+  solutions against the video.
+
+
+  During the video, students will:
+
+
+  *   Recall the physical and mathematical descriptions of divergence, gradient, and
+  curl.
+
+  *   Derive the formula for a 2-dimensional curl in the xy-plane.
+
+  *   Predict whether different fluid flow regimes have vorticity.
+
+  *   Explain why a channel flow has vorticity, given the velocity field.'
+parent_title: Differential Equations
+parent_type: SupplementalResourceSection
+related_resources_text: 'Instructor Guide
+
+
+  [Curl Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_curl_ig)'
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Curl
 uid: 6200df4a-290e-4587-c8bf-27bb18171bee
 video_files:
@@ -34,3 +63,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+
