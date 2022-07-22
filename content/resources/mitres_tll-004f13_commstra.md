@@ -4,6 +4,7 @@ description: This file contains information regarding strategic communication tr
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/9e2b07a8961ce24cdbef8e0df0c36b9a_MITRES_TLL-004F13_CommStra.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Communication
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding strategic communication transcript.
-

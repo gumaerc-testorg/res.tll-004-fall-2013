@@ -4,6 +4,7 @@ description: 'This file contains information regarding feedback loops instructor
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/df12d79e8ea616905e2a478f904ba3c8_MITRES_TLL-004F13_FeeGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Information Flow
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding feedback loops instructor guide. 
-

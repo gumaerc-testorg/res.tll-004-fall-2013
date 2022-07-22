@@ -4,6 +4,7 @@ description: 'This file contains information regarding entropy instructor guide.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/e6769deb59c187e94903f5f423f07c00_MITRES_TLL-004F13_EntGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Governing Rules
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding entropy instructor guide. 
-

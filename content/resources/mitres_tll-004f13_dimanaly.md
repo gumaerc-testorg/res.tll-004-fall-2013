@@ -4,6 +4,7 @@ description: This resource contains information regarding Dimensional Analysis.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/0a468820bb8e1b3f4fa09fa282c72b77_MITRES_TLL-004F13_DimAnaly.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding Dimensional Analysis.
-

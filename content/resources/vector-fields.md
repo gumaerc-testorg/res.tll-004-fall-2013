@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Student Experience
 optional_text: 'During the video, students will:
@@ -52,6 +53,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
-
-
 

@@ -4,6 +4,7 @@ description: 'This file contains information regarding unit analysis instructor 
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/d55b3b1817c5633b04b32a3f81736d0d_MITRES_TLL-004F13_UntGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Solving
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding unit analysis instructor guide. 
-

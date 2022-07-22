@@ -5,6 +5,7 @@ description: 'This file contains information regarding  what is temperature inst
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/973960a89967e9be2e9a888d67b0cc0c_MITRES_TLL-004F13_TemGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Equilibrium
 parent_type: SupplementalResourceSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding  what is temperature instructor guide. 
-

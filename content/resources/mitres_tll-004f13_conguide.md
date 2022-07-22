@@ -5,6 +5,7 @@ description: 'This file contains information regarding conditional probability i
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/e2fe86e53beb00042d01b5b7db4c50c2_MITRES_TLL-004F13_ConGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Probability and Statistics
 parent_type: SupplementalResourceSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding conditional probability instructor guide. 
-

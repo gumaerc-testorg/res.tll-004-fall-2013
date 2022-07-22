@@ -4,6 +4,7 @@ description: This file contains information regarding entropy transcript.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/917f09d6d57df028f4976d69b71dda17_MITRES_TLL-004F13_Entropy.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Governing Rules
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding entropy transcript.
-

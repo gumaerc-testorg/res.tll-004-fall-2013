@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/21b4dd321d090c6fdeb71cb73dbbb99c_nwZ9FbZtOv0.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

@@ -4,6 +4,7 @@ description: This file contains information regarding chirality transcript.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/60614708fb86dc1785436db3396cd117_MITRES_TLL-004F13_Chirali.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Structure-Function Properties
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding chirality transcript.
-

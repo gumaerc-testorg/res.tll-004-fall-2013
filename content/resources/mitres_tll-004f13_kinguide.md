@@ -4,6 +4,7 @@ description: 'This file contains information regarding kinetic theory instructor
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/0b0f333c939e6903e721ae7087174952_MITRES_TLL-004F13_KinGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Governing Rules
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding kinetic theory instructor guide. 
-

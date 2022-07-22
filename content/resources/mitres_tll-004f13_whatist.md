@@ -4,6 +4,7 @@ description: 'This file contains information regarding  what is temperature tran
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/e9a988bdd0b3a67fc15d98a99bc034e3_MITRES_TLL-004F13_WhatisT.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Equilibrium
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding  what is temperature transcript. 
-

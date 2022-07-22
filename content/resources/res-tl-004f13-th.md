@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Illustrated icons of graphs, neurons, and molecules, representing the
     themes of the Concept Vignette videos.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-tl-004f13-th.jpg

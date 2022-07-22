@@ -5,6 +5,7 @@ description: This file contains information regarding polyelectrolyte multilayer
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/94c434c8697ffb13c73df860df79d90a_MITRES_TLL-004F13_PolGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Structure-Function Properties
 parent_type: SupplementalResourceSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding polyelectrolyte multilayers instructor guide.
-

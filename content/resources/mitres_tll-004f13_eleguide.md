@@ -5,6 +5,7 @@ description: 'This file contains information regarding electric potential instru
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/cc7e2d3720954459623dbf3cdeeb7815_MITRES_TLL-004F13_EleGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Derivatives and Integrals
 parent_type: SupplementalResourceSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding electric potential instructor guide. 
-

@@ -4,6 +4,7 @@ description: This file contains information regarding Linear Approximations.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/9bea3a0b1b7140e3f862f83ee0499e50_MITRES_TLL-004F13_LinearAp.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linearity
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding Linear Approximations.
-

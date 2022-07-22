@@ -5,6 +5,7 @@ description: 'This file contains information regarding equilibrium vs. steady st
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/348d3d5d6f0ed303d6d9d27337c6b5fe_MITRES_TLL-004F13_EquGuide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Equilibrium
 parent_type: SupplementalResourceSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding equilibrium vs. steady state instructor guide. 
-
