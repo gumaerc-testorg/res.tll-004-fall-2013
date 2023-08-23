@@ -24,7 +24,8 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Models of Light Instructor Guide (PDF)](resources/mitres_tll-004f13_modguide)'
+  {{% resource_link "d4ed26e0-2e99-d2dd-1676-e5baf275d8fc" "Models of Light Instructor
+  Guide (PDF)" %}}'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -38,7 +39,6 @@ video_files:
 video_metadata:
   youtube_id: x5Zr2-od-fU
 ---
-
 Summary
 -------
 
@@ -58,4 +58,3 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
-
