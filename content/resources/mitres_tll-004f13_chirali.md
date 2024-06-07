@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding chirality transcript.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/60614708fb86dc1785436db3396cd117_MITRES_TLL-004F13_Chirali.pdf
+file_size: 618992
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

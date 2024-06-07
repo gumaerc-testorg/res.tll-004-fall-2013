@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/eb1fad9777775c26bf3489c560581632_IOcrHOc23N4.vtt
+file_size: 17950
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

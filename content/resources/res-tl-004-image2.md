@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/cd2a723498f5eeb925f09e2b37a6cc8f_res-tl-004-image2.jpg
+file_size: 9014
 file_type: image/jpeg
 image_metadata:
   caption: ''

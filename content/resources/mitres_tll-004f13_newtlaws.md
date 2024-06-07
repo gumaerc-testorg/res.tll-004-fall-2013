@@ -2,6 +2,7 @@
 content_type: resource
 description: "This file contains information regarding Newton\u2019s Laws."
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/5952be3786c324f8327332944204f170_MITRES_TLL-004F13_NewtLaws.pdf
+file_size: 643905
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

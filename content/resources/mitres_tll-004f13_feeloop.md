@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding feedback loops transcript. '
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/8971b7f1098292fb960537e0c1e3381a_MITRES_TLL-004F13_FeeLoop.pdf
+file_size: 618091
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

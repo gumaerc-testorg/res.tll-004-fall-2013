@@ -2,6 +2,7 @@
 content_type: resource
 description: "This file contains information regarding Maxwell\u2019s Equations."
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/903fd02337d4e6657a026ed8d4bdfef5_MITRES_TLL-004F13_MaxwEqu.pdf
+file_size: 638776
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

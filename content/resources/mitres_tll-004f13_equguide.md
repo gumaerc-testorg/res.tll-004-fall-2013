@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding equilibrium vs. steady state
   instructor guide. '
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/348d3d5d6f0ed303d6d9d27337c6b5fe_MITRES_TLL-004F13_EquGuide.pdf
+file_size: 207457
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
