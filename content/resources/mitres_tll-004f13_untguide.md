@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding unit analysis instructor guide. '
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/d55b3b1817c5633b04b32a3f81736d0d_MITRES_TLL-004F13_UntGuide.pdf
+file_size: 356595
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

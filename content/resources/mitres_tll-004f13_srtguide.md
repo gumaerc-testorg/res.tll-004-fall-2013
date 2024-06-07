@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding strategic communication instructor
   guide. '
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/f55d4aec8069ddaedfd7aebfe625a9be_MITRES_TLL-004F13_SrtGuide.pdf
+file_size: 219627
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding electric potential instructor
   guide. '
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/cc7e2d3720954459623dbf3cdeeb7815_MITRES_TLL-004F13_EleGuide.pdf
+file_size: 1192241
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/01341b11e3eebb1da481308d463093bd_MITRES_TLL-004F13_D_F_IG.pdf
+file_size: 229650
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
