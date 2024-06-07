@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding buffers instructor guide.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/6b7599b7aaebfd449ca9137ab696d599_MITRES_TLL-004F13_BuffeIG.pdf
+file_size: 210897
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

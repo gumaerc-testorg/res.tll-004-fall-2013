@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding unit analysis transcript.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/886dc338a907272052438698bab47faa_MITRES_TLL-004F13_UnitAnal.pdf
+file_size: 141964
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

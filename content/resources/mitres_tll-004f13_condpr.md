@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding conditional probability transcript. '
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/209a8659e4199ff4b7c38ce42bfdb43b_MITRES_TLL-004F13_CondPr.pdf
+file_size: 620344
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

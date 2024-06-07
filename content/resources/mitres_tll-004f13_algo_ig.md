@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Algorithm Efficiency Instructor
   Guide.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/fd36cdc3fb23bbf5be826d9e42010d6c_MITRES_TLL-004F13_Algo_IG.pdf
+file_size: 254943
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

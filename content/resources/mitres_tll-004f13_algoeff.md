@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Algorithm Efficiency.
 file: /courses/res-tll-004-stem-concept-videos-fall-2013/7f5963072dd123f9ee03ecc58ddafd4d_MITRES_TLL-004F13_AlgoEff.pdf
+file_size: 648009
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
