@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding entropy transcript.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/917f09d6d57df028f4976d69b71dda17_MITRES_TLL-004F13_Entropy.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/917f09d6d57df028f4976d69b71dda17_MITRES_TLL-004F13_Entropy.pdf
 file_size: 144311
 file_type: application/pdf
 learning_resource_types: []

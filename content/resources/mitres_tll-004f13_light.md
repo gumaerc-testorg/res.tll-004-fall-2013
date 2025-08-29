@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding models of light transcript.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/cea19e744c0cdd6513133e05b078b1ff_MITRES_TLL-004F13_Light.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/cea19e744c0cdd6513133e05b078b1ff_MITRES_TLL-004F13_Light.pdf
 file_size: 142723
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Free Body Diagrams.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/41b1500061802e305d33eb0a6005e513_MITRES_TLL-004F13_FreeBody.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/41b1500061802e305d33eb0a6005e513_MITRES_TLL-004F13_FreeBody.pdf
 file_size: 679826
 file_type: application/pdf
 learning_resource_types: []
