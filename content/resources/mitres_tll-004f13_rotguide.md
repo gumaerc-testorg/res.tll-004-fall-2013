@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding rotating frames of reference
   instructor guide. '
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/fcf7aad331b7cef31505387af14da638_MITRES_TLL-004F13_RotGuide.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/fcf7aad331b7cef31505387af14da638_MITRES_TLL-004F13_RotGuide.pdf
 file_size: 241083
 file_type: application/pdf
 learning_resource_types: []

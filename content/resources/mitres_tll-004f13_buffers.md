@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding buffers transcript.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/31094b8bbd4d951f153e8f478cc0683f_MITRES_TLL-004F13_Buffers.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/31094b8bbd4d951f153e8f478cc0683f_MITRES_TLL-004F13_Buffers.pdf
 file_size: 653451
 file_type: application/pdf
 learning_resource_types: []

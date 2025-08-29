@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/b5a19c6181f07b3382aec370cca67f41_RES.TLL-004_F13_Algorithms-th.jpg
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/b5a19c6181f07b3382aec370cca67f41_RES.TLL-004_F13_Algorithms-th.jpg
 file_size: 7594
 file_type: image/jpeg
 image_metadata:

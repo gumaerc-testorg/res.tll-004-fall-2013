@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding divergence. '
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/6dcaf2b25971f5026d8565d5af569b1f_MITRES_TLL-004F13_Diverge.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/6dcaf2b25971f5026d8565d5af569b1f_MITRES_TLL-004F13_Diverge.pdf
 file_size: 648011
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding Maxwell Instructor Guide. '
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/f9b69866c020f855494fc1bbd5908e9e_MITRES_TLL-004F13_Max_IG.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/f9b69866c020f855494fc1bbd5908e9e_MITRES_TLL-004F13_Max_IG.pdf
 file_size: 629590
 file_type: application/pdf
 learning_resource_types: []

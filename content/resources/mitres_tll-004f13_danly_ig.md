@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Dimensional Analysis Instructor
   Guide.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/ea607203e7513324866c406aed22edf9_MITRES_TLL-004F13_DAnly_IG.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/ea607203e7513324866c406aed22edf9_MITRES_TLL-004F13_DAnly_IG.pdf
 file_size: 274522
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Stability Analysis.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/8eb3566e8721796ca9fd78487a7f76bf_MITRES_TLL-004F13_StabAnal.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/8eb3566e8721796ca9fd78487a7f76bf_MITRES_TLL-004F13_StabAnal.pdf
 file_size: 651894
 file_type: application/pdf
 learning_resource_types: []

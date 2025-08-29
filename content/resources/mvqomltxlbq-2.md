@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/4eb915c0cddf54eb8db0f129441a1d59_mVQOmLTXLbQ.vtt
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/4eb915c0cddf54eb8db0f129441a1d59_mVQOmLTXLbQ.vtt
 file_size: 18190
 file_type: application/x-subrip
 learning_resource_types: []
