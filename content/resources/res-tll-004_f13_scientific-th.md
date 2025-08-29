@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/23d660944a4f4ec61921e166e313e161_RES.TLL-004_F13_Scientific-th.jpg
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/23d660944a4f4ec61921e166e313e161_RES.TLL-004_F13_Scientific-th.jpg
 file_size: 7748
 file_type: image/jpeg
 image_metadata:

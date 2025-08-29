@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding  what is temperature transcript. '
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/e9a988bdd0b3a67fc15d98a99bc034e3_MITRES_TLL-004F13_WhatisT.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/e9a988bdd0b3a67fc15d98a99bc034e3_MITRES_TLL-004F13_WhatisT.pdf
 file_size: 642732
 file_type: application/pdf
 learning_resource_types: []

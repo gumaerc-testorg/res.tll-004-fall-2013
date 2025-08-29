@@ -2,7 +2,7 @@
 content_type: resource
 description: "This file contains information regarding flux and gauss\u2019 law instructor\
   \ guide. "
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/cfb055e0404090f7b9a9e6fe4941dfd2_MITRES_TLL-004F13_FlxGuide.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/cfb055e0404090f7b9a9e6fe4941dfd2_MITRES_TLL-004F13_FlxGuide.pdf
 file_size: 1075506
 file_type: application/pdf
 learning_resource_types: []

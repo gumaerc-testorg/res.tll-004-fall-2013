@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding Newton Instructor Guide. '
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/76e11a4fbd5703e38cc63d96c81c1d85_MITRES_TLL-004F13_Nwton_IG.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/76e11a4fbd5703e38cc63d96c81c1d85_MITRES_TLL-004F13_Nwton_IG.pdf
 file_size: 1776670
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding electric potential transcript.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/60e52752e194d24111fbd74d2d559410_MITRES_TLL-004F13_ElecPote.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/60e52752e194d24111fbd74d2d559410_MITRES_TLL-004F13_ElecPote.pdf
 file_size: 145570
 file_type: application/pdf
 learning_resource_types: []

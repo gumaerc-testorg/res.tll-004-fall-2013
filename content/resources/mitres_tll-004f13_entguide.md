@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding entropy instructor guide. '
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/e6769deb59c187e94903f5f423f07c00_MITRES_TLL-004F13_EntGuide.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/e6769deb59c187e94903f5f423f07c00_MITRES_TLL-004F13_EntGuide.pdf
 file_size: 231152
 file_type: application/pdf
 learning_resource_types: []

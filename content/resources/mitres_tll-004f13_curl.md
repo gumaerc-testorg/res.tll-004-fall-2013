@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding curl. '
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/1167084d3d8718d0a9100d12b663a628_MITRES_TLL-004F13_Curl.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/1167084d3d8718d0a9100d12b663a628_MITRES_TLL-004F13_Curl.pdf
 file_size: 643446
 file_type: application/pdf
 learning_resource_types: []

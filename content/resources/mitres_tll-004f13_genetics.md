@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/cd4d2d91f4cd010a7c01da934e67e6cc_MITRES_TLL-004F13_Genetics.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/cd4d2d91f4cd010a7c01da934e67e6cc_MITRES_TLL-004F13_Genetics.pdf
 file_size: 185189
 file_type: application/pdf
 learning_resource_types: []

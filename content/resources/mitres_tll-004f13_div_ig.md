@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Divergence Instructor Guide.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/a70a54d5fecaa8b36a414ace76a9c257_MITRES_TLL-004F13_Div_IG.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/a70a54d5fecaa8b36a414ace76a9c257_MITRES_TLL-004F13_Div_IG.pdf
 file_size: 398261
 file_type: application/pdf
 learning_resource_types: []

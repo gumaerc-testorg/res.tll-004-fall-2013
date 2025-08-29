@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This file contains information regarding flux and gauss\u2019 law transcript."
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/3d0540b47a719e85ee3deca0d98bdcaf_MITRES_TLL-004F13_FluGaLaw.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/3d0540b47a719e85ee3deca0d98bdcaf_MITRES_TLL-004F13_FluGaLaw.pdf
 file_size: 153417
 file_type: application/pdf
 learning_resource_types: []

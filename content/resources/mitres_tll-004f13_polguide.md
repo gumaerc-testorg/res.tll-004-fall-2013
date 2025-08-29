@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding polyelectrolyte multilayers
   instructor guide.
-file: /courses/res-tll-004-stem-concept-videos-fall-2013/94c434c8697ffb13c73df860df79d90a_MITRES_TLL-004F13_PolGuide.pdf
+file: /ol-ocw-studio-app/courses/res-tll-004-stem-concept-videos-fall-2013/94c434c8697ffb13c73df860df79d90a_MITRES_TLL-004F13_PolGuide.pdf
 file_size: 215333
 file_type: application/pdf
 learning_resource_types: []
